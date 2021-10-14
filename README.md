@@ -1,8 +1,10 @@
 # Chat App with Chatengine and ReactJS
 
-### [Chat App](https://chat-app-huyctdev.netlify.app/) 
+### [Chat App](https://chat-app-huyctdev.netlify.app/)
 
 This web app use ReactJS basic and library react-chat-engine(or [Chat Engine](https://chatengine.io))
+
+Link: https://chat-app-huyctdev.netlify.app/
 
 ![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
 ## Usage
